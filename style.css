@@ -251,6 +251,7 @@ nav a:hover::after {
 
 .work-box-img {
     max-width: 600px;
+    max-height: 800px;
     filter: opacity(0.9);
 }
 
